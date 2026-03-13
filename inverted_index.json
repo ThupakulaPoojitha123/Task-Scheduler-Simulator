@@ -1,0 +1,47 @@
+{
+  "for": [
+    0
+  ],
+  "tutorial": [
+    0,
+    1
+  ],
+  "programming": [
+    0,
+    1
+  ],
+  "language": [
+    0
+  ],
+  "python": [
+    0,
+    2
+  ],
+  "beginners": [
+    0
+  ],
+  "java": [
+    1
+  ],
+  "examples": [
+    1
+  ],
+  "and": [
+    1
+  ],
+  "web": [
+    2
+  ],
+  "development": [
+    2
+  ],
+  "framework": [
+    2
+  ],
+  "django": [
+    2
+  ],
+  "with": [
+    2
+  ]
+}

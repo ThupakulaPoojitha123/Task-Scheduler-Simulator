@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "url": "https://google.com/page1",
+    "text": "python programming language tutorial for beginners",
+    "links": []
+  },
+  {
+    "id": 1,
+    "url": "https://google.com/page2",
+    "text": "java programming tutorial and examples",
+    "links": []
+  },
+  {
+    "id": 2,
+    "url": "https://google.com/page3",
+    "text": "web development with python django framework",
+    "links": []
+  },
+  {
+    "id": 3,
+    "url": "https://google.com/page4",
+    "text": "machine learning python tutorial",
+    "links": []
+  },
+  {
+    "id": 4,
+    "url": "https://google.com/page5",
+    "text": "data structures and algorithms in java",
+    "links": []
+  }
+]

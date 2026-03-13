@@ -1,0 +1,10 @@
+{
+  "start": "A",
+  "end": "E",
+  "distance": 7,
+  "path": [
+    "A",
+    "C",
+    "E"
+  ]
+}
